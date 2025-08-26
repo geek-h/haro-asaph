@@ -162,7 +162,7 @@ Pour ajouter votre photo dans la section hero :
 ```html
 <!-- Remplacez la div hero-shape par : -->
 <div class="hero-image">
-    <img src="./assets/images/votre-photo.jpg" alt="Votre nom" class="profile-image">
+    <img src="./assets/images/COME_TO_CODE.png" alt="Asaph Haro" class="profile-image">
 </div>
 ```
 
