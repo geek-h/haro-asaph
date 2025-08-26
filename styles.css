@@ -18,7 +18,7 @@ body {
 }
 
 .profile-image {
-  width: 300px;
+  width: 100px;
   height: auto; /* garde les proportions */
   border-radius: 12px; /* optionnel: arrondir les bords */
 }
