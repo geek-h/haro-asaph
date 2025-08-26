@@ -17,6 +17,12 @@ body {
     overflow-x: hidden;
 }
 
+.profile-image {
+  width: 300px;
+  height: auto; /* garde les proportions */
+  border-radius: 12px; /* optionnel: arrondir les bords */
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
