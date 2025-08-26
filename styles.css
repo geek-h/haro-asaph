@@ -28,6 +28,14 @@ body {
   z-index: 2; 
 }
 
+.profile-project {
+  border-radius: 12px; /* optionnel: arrondir les bords */
+  max-width: 100%;
+
+  position: relative;
+  height: auto;
+}
+
 
 .container {
     max-width: 1200px;
@@ -220,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-name {
-    background: linear-gradient(135deg, #2563eb, #3b82f6);
+    background: linear-gradient(135deg, #f97316, #3b82f6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
